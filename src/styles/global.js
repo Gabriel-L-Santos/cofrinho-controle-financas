@@ -6,6 +6,7 @@ const Global = createGlobalStyle`
     margin: 0;
     padding: 0;
   }
+  
   body {
     font-family: 'Tilt Warp', cursive;
     background-color: #f2f2f2;
