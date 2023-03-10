@@ -1,9 +1,13 @@
-import React from 'react'
+import React from 'react';
+import Global from './styles/global';
 
 const App = () => {
     return (
-        <div>App</div>
-    )
-}
+        <>
+            <div>App</div>
+            <Global />
+        </>
+    );   
+};
 
-export default App
+export default App;
