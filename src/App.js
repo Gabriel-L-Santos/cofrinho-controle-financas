@@ -3,6 +3,10 @@ import Form from './components/Form';
 import Header from './components/Header';
 import Resume from './components/Resume';
 import GlobalStyle from './styles/global';
+import { BsLinkedin } from 'react-icons/bs';
+import { BsGithub } from 'react-icons/bs';
+
+import './App.css';
 
 const App = () => {
     const data = localStorage.getItem("transactions");
@@ -46,7 +50,25 @@ const App = () => {
             <Resume income={income} expense={expense} total={total} />
             <Form handleAdd={handleAdd} transactionsList={transactionsList} setTransactionsList={setTransactionsList} />
             <GlobalStyle />
+
+            <div className="footer">
+                <footer>
+                <p>Gabriel Leme dos Santos - 2023</p>
+                </footer>
+            </div> 
+
+            <div className="button-footer">  
+                <button className="buttonSearchFooter">
+                <a href="https://www.linkedin.com/in/gabriel-leme-dos-santos-7b220b197/"><BsLinkedin size={25} color="#000000"/></a>
+                </button>
+
+                <button className="buttonSearchFooter">
+                <a href="https://github.com/Gabriel-L-Santos"><BsGithub size={25} color="#000000"/></a>
+                </button>
+            </div> 
+
         </>
+        
     );   
 };
 
