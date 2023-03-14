@@ -50,5 +50,10 @@ export const Button = styled.button`
   border-radius: 5px;
   cursor: pointer;
   color: white;
-  background-color: teal;
+  background-color: #1814FE;
+  transition: transform 450ms;
+  &:hover {
+    transform: scale(1.1);
+    background-color: #0F0DA1;
+  }
 `;
