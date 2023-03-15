@@ -1,70 +1,26 @@
-# Getting Started with Create React App
+# Cofrinho - Controle de Finanças
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Deploy do projeto
 
-## Available Scripts
+<https://qr-maker-gabriel-l-santos.vercel.app/>
 
-In the project directory, you can run:
+<img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+</p>
 
-### `npm start`
+![Showcase do site Cofrinho - gif](./src/img-gif-readme/qr-maker-showcase.gif)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Cofrinho é o nome deste projeto de controle de finanças feito com `ReactJS`, usando as bibliotecas React `Styled Components` e `React Icons`.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Tabela de Conteúdos
 
-### `npm test`
+- [Meu Processo de Desenvolvimento](#meu-processo-de-desenvolvimento)
+- [Autor do Projeto](#autor-do-projeto)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Meu processo de Desenvolvimento
 
-### `npm run build`
+Para este projeto, foi importado as bibliotecas React `Styled Components` para a estruturação em blocos do site (possibilitando o uso de CSS dentro do Javascript) e `React Icons` para o uso dos ícones exibidos na página. Para começar, basta inserir o valor de entrada (como por exemplo o valor do salário) ou inserir o valor de saída (que seriam os gastos), juntamente com a descrição de cada um (ex: salário - R$1.500 ; gastos com mercado - R$ 500), e clique em adicionar, logo abaixo aparecerá todos os valores e descrições de recebimentos e gastos adicionados, e acima, ao lado dos valores de entrada e saída, o valor total do dinheiro que sobrou, após subtraído os gastos.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Autor do Projeto
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- GitHub - [Gabriel-L-Santos](https://github.com/Gabriel-L-Santos)
+- LinkedIn - [Gabriel Leme dos Santos](https://www.linkedin.com/in/gabriel-leme-dos-santos/)
