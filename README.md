@@ -7,7 +7,7 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
-![Showcase do site Cofrinho - gif](./src/img-gif-readme/qr-maker-showcase.gif)
+![Showcase do site Cofrinho - gif](./src/img-gif-readme/cofrinho-controle-financas-showcase.gif)
 
 Cofrinho é o nome deste projeto de controle de finanças feito com `ReactJS`, usando as bibliotecas React `Styled Components` e `React Icons`.
 
