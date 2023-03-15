@@ -2,7 +2,7 @@
 
 ## Deploy do projeto
 
-<https://qr-maker-gabriel-l-santos.vercel.app/>
+<https://cofrinho-controle-financas.vercel.app/>
 
 <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
